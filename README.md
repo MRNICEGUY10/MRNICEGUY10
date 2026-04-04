@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋 I'm Dheeraj</h1>
-<h3 align="center">Aspiring Full Stack Developer | Building Real-World Web Applications</h3>
+<h3 align="center">Full Stack Developer | Building Real-World Web Applications</h3>
 
 ###
 
