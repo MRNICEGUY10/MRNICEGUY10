@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I’m an aspiring Full Stack Developer with a strong foundation in Computer Science and a focus on building real-world web applications.<br><br>I work with JavaScript, React, Node.js, and databases, and I’m continuously improving by taking on new challenges and projects.<br><br>My goal is to develop reliable, scalable applications and grow into a skilled software developer.</p>
+<p align="left">I’m a Full Stack Developer with a strong foundation in Computer Science and a focus on building real-world web applications.<br><br>I work with JavaScript, React, Node.js, and databases, and I’m continuously improving by taking on new challenges and projects.<br><br>My goal is to develop reliable, scalable applications and grow into a skilled software developer.</p>
 
 ###
 
